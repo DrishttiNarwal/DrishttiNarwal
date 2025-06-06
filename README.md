@@ -87,7 +87,4 @@ I'm a driven AI & ML student with a passion for building intelligent, secure sys
 - 💼 [LinkedIn](https://www.linkedin.com/in/drishtti03/)  
 - 💻 [GitHub](https://github.com/DrishttiNarwal)  
 - 📧 drishtti.narwal@gmail.com  
-
 ---
-
-> _"Code has no heart. We do."_ 💙
